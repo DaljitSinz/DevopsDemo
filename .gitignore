@@ -1,6 +1,5 @@
 target/
 .idea/
 .mvn/
-chromedriver
 DevopsDemo.iml
 .allure/
