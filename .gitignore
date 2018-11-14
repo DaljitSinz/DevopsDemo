@@ -1,0 +1,8 @@
+target/
+.idea/
+.mvn/
+chromedriver
+DevopsDemo.iml
+.allure/
+mvnw
+mvnw.cmd
