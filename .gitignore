@@ -4,5 +4,3 @@ target/
 chromedriver
 DevopsDemo.iml
 .allure/
-mvnw
-mvnw.cmd
